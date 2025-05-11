@@ -34,10 +34,15 @@ cid succinic_acid 20 80 5
 This simulates CID spectra for succinic_acid.mol with collision energies from 20 eV to 80 eV in 5 eV steps.
 
 To simulate a single energy:
-
+```bash
 cid succinic_acid 40
+```
+
 3. Plot the MS spectrum
+```bash
 plotms
+```
+
 This generates:
 
 An annotated MS spectrum
@@ -47,7 +52,10 @@ Tabulated m/z values and intensities
 A report of any missing or unfinished simulations
 
 4. View structures responsible for a peak
+```bash
 structure
+```
+
 This first displays:
 
 m/z     Intensity
@@ -57,7 +65,10 @@ m/z     Intensity
 
 Then, to fetch the structures contributing to a given peak:
 
+```bash
 structure 61.0
+```
+
 All generated fragment structures contributing to m/z = 61.0 will be shown or visualized.
 
 ## 📁 Output Files
@@ -76,6 +87,7 @@ To install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 📜 License
 
