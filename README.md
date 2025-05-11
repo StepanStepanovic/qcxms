@@ -30,6 +30,7 @@ From your terminal:
 
 ```bash
 cid succinic_acid 20 80 5
+```
 This simulates CID spectra for succinic_acid.mol with collision energies from 20 eV to 80 eV in 5 eV steps.
 
 To simulate a single energy:
