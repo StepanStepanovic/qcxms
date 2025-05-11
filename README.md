@@ -85,11 +85,6 @@ All generated fragment structures contributing to m/z = 61.0 will be shown or vi
 
 This tool assumes `qcxms` is properly installed and available in your `PATH`. Python 3.x with `matplotlib` and `pandas` is also required.
 
-To install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## 📜 License
 
