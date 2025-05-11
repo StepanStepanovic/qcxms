@@ -59,7 +59,9 @@ structure
 This first displays:
 
 m/z     Intensity
+
 45.0    0.78
+
 61.0    0.54
 ...
 
