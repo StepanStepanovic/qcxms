@@ -94,7 +94,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## 🙌 Acknowledgments
 
-This wrapper is built around the [QCxMS](https://www.chemie.uni-bonn.de/pctc/mulliken-center/software/qcxms/qcxms) code developed by the University of Bonn. It aims to make high-level mass spectrometry simulations more accessible for chemists and cheminformaticians alike.
+This wrapper is built around the [QCxMS](https://xtb-docs.readthedocs.io/en/latest/qcxms_doc/qcxms.html) code developed by the University of Bonn. It aims to make high-level mass spectrometry simulations more accessible for chemists and cheminformaticians alike.
 
 ---
 
