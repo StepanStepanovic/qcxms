@@ -108,7 +108,11 @@ This wrapper is built around the [QCxMS](https://xtb-docs.readthedocs.io/en/late
 
 If you use this tool in your work, please consider citing the original QCxMS paper:
 
-> Grimme, S. et al. _QCxMS – A Program for Calculating Collision-Induced Dissociation Mass Spectra._ J. Chem. Theory Comput. 2020.
+> S. Grimme Towards First Principles Calculation of Electron Impact Mass Spectra of Molecules. Angew. Chem. Int. Ed., 2013, 52, 6306-631. DOI: 10.1002/anie.201300158
+
+> Koopman, J.; Grimme, S. From QCEIMS to QCxMS: A Tool to Routinely Calculate CID Mass Spectra Using Molecular Dynamics. J. Am. Soc. Mass Spectrom, 2021. DOI: 10.1021/jasms.1c00098
+
+
 
 ---
 
