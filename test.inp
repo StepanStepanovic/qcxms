@@ -1,0 +1,9 @@
+! XTB  
+!Opt 
+%geom
+MaxIter 500
+end
+
+* xyz 1 1
+
+*
